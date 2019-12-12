@@ -7,8 +7,8 @@ This project is created for experimenting Dockerfile, simulating the charge crea
 3. Docker
 
 ## Run via Docker
-1. docker image build -t at:1.0 .
-2. docker container run at:1.0
+1. docker pull jonahtn/train:first
+2. docker container run jonahtn/train:first
 
 ## Prerequisites (optional if you want to run in your local machine)
 1. Install NodeJS
